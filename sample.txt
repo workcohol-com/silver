@@ -1,1 +1,1 @@
-"I am learning git"
+"My name is John"
